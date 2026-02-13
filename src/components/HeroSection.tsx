@@ -73,7 +73,7 @@ const HeroSection = () => {
               Aspiring Software
               <br />
               Engineer from{" "}
-              <span className="text-gradient">Mirpur, Dhaka, Bangladesh</span>
+              <span className="text-gradient">Bangladesh</span>
             </motion.h1>
 
             <motion.div
@@ -95,7 +95,7 @@ const HeroSection = () => {
               className="flex items-center gap-3 mb-10 text-sm text-muted-foreground"
             >
               <MapPin size={16} className="text-primary" />
-              <span>Mirpur, Dhaka, Bangladesh</span>
+              <span>Bangladesh</span>
             </motion.div>
 
             <motion.div
